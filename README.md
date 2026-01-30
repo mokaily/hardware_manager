@@ -1,6 +1,6 @@
 # Audio Manager
 
-![Demo Placeholder](https://via.placeholder.com/800x450.png?text=Demo+Recording+Coming+Soon)
+![Demo Placeholder](https://github.com/mokaily/hardware_manager/blob/main/vids/hardware_manager_demo.mp4)
 
 ## Project State
 The **Audio Manager** is a sophisticated Flutter application designed for granular control over device hardware parameters, currently in an **Advanced Prototype** stage. It features a robust profile management system and highly customizable UI components for a premium user experience.
